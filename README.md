@@ -1,1 +1,5 @@
-# college_publications
+# Investigating College Publications
+
+### Columbia Spectator
+
+### Harvard Crimson
